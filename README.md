@@ -1,2 +1,2 @@
 # angularjs-masterclass
-AngularJS
+AngularJS masterclass - notes and code examples
